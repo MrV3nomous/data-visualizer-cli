@@ -152,7 +152,6 @@ python main.py dataset.csv --report
 - Machine learning insights
 - Automatic data cleaning
 - More visualization types
-- Export dashboards as HTML
 
 ---
 
